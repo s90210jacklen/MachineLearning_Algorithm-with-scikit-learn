@@ -1,1 +1,1 @@
-# MachineLearning_Algorithm with scikit-learn
+# Machine Learning algorithm with scikit-learn
