@@ -14,6 +14,11 @@
     - [K-nearest neighbors](https://github.com/s90210jacklen/MachineLearning_Algorithm-with-scikit-learn/blob/master/Classification/Knn.ipynb)
     - [Support Vector Machine](https://github.com/s90210jacklen/MachineLearning_Algorithm-with-scikit-learn/blob/master/Classification/svm.ipynb)
 
+- [Clustering](#Clustering)
+    - [K-means Clustering](https://github.com/s90210jacklen/MachineLearning_Algorithm-with-scikit-learn/blob/master/Clustering/Kmeans.ipynb)
+    - [Hierarchical Clustering](https://github.com/s90210jacklen/MachineLearning_Algorithm-with-scikit-learn/blob/master/Clustering/hierarchi.ipynb)
+    - [Agglomerative hierarchical clustering](https://github.com/s90210jacklen/MachineLearning_Algorithm-with-scikit-learn/blob/master/Clustering/2agglomerative_clustering.ipynb)
+    - [Density-Based Spatial Clustering of Applications with Noise (DBSCA)](https://github.com/s90210jacklen/MachineLearning_Algorithm-with-scikit-learn/blob/master/Clustering/DensityBase.ipynb)
 
 #
 #
@@ -63,3 +68,6 @@
 
 
 ## Classification
+
+
+## Clustering
