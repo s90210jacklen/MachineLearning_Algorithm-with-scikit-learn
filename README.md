@@ -20,7 +20,7 @@
     - [Agglomerative hierarchical clustering](https://github.com/s90210jacklen/MachineLearning_Algorithm-with-scikit-learn/blob/master/Clustering/2agglomerative_clustering.ipynb)
     - [Density-Based Spatial Clustering of Applications with Noise (DBSCA)](https://github.com/s90210jacklen/MachineLearning_Algorithm-with-scikit-learn/blob/master/Clustering/DensityBase.ipynb)
 
-- [Dimension Reduction](#Dimension Reduction)
+- [Dimension Reduction](#Dimension reduction)
     - [Principal Component Analysis (PCA)](https://github.com/s90210jacklen/MachineLearning_Algorithm-with-scikit-learn/blob/master/Dimension%20Reduction/PCA.ipynb)
     - [Linear Discriminant Analysis (LDA)](https://github.com/s90210jacklen/MachineLearning_Algorithm-with-scikit-learn/blob/master/Dimension%20Reduction/LDA.ipynb)
 
