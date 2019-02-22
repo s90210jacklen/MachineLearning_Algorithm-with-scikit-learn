@@ -25,41 +25,7 @@
     - [Linear Discriminant Analysis (LDA)](https://github.com/s90210jacklen/MachineLearning_Algorithm-with-scikit-learn/blob/master/Dimension%20Reduction/LDA.ipynb)
 
 #
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-[Linear Regression]()  | [Linear Regression](https://github.com/s90210jacklen/MachineLearning_Algorithm/blob/master/Regression/Linear_Regression.ipynb)
+
 
 ## Regression
 
